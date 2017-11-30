@@ -30,7 +30,7 @@ the Raspberry Pi.
   1. log out, then log back in again for the change to take effect
   1. `sudo systemctl start docker`
 1. Clone this repository into a directory of your choice
-  1. `git clone https://github.com/romilly/rpi-docker-tensorflow.git`
+  1. `git clone https://github.com/naren-m/rpi-docker-tensorflow.git`
 1. Build the image
   1. `cd rpi-docker-tensorflow/build-tensor-pi/`
   1. `docker build -t='yourName/rpi-docker-tensorflow' .`
